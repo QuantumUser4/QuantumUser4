@@ -1,7 +1,7 @@
 ## Hi! 👋🏼
 
 ## About Me: 🙋🏼
-I'm QuantumUser4, the creator of LogicAI, a revolutionary application that takes artificial intelligence to ever higher levels! 🚀
+I'm QuantumUser4, I’m looking for business ideas 🚀
 
 # What i know:                                      
 • Python
