@@ -11,13 +11,11 @@ I specialize in full-stack development, with experience across a variety of prog
 ### Tech Skills:
 
 - **Programming Languages:**  
-  Python, C++, C#, JavaScript  
-- **Frameworks & Technologies:**  
-  .NET, React, Angular  
+  Python, C++, C#, JavaScript, Java, C
 - **Development Expertise:**  
   Front-End & Back-End Development  
 - **Other Skills:**  
-  Problem-Solving, Business Development  
+  Problem-Solving, Business Development
 
 ## My Goals
 
