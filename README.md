@@ -1,5 +1,7 @@
-# Hi there! [![Typing SVG](https://readme-typing-svg.demolab.com?font=Funnel+Sans&weight=800&pause=1000&width=435&lines=QuantumUser4)](https://git.io/typing-svg)👋  
+# Hi there!👋  
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Funnel+Sans&weight=800&pause=1000&width=435&lines=QuantumUser4)](https://git.io/typing-svg)
+ 
 ![Developer](https://img.shields.io/badge/Developer-Full--Stack-blueviolet?style=for-the-badge)  
 ![Innovator](https://img.shields.io/badge/Innovator-Tech--Driven-success?style=for-the-badge)  
 ![Collaborator](https://img.shields.io/badge/Collaboration-Open--to--Ideas-lightblue?style=for-the-badge)  
