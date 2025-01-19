@@ -19,23 +19,22 @@ I'm **QuantumUser4**, a passionate developer constantly seeking new opportunitie
 
 ---
 
-### 🚀 My Tech Stack:  
+### 🚀 My Tech Stack:
 
-- **Languages:**
-  ![Python Badge](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge)
-  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-Proficient-yellow?style=for-the-badge)
-  
-- **Frameworks:**
-  ![React Badge](https://img.shields.io/badge/React-Expert-blue?style=for-the-badge)
-  ![Node.js Badge](https://img.shields.io/badge/Node.js-Advanced-green?style=for-the-badge)
+- **Languages:**  
+  ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 
-- **Tools:**
-  ![Docker Badge](https://img.shields.io/badge/Docker-Experienced-blue?style=for-the-badge)
-  ![AWS Badge](https://img.shields.io/badge/AWS-Intermediate-yellow?style=for-the-badge)
+- **Tools & Frameworks:**  
+  ![React](https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=react&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/Docker-Experienced-blue?style=for-the-badge&logo=docker&logoColor=white)  
+
+- **Additional Skills:**  
+  ![WakaTime](https://wakatime.com/badge/user/your_username.svg)  
 
 ---
 
-### 🏆 My Goals
+## 🏆 My Goals
 
 - **Innovate:** Constantly looking for opportunities to innovate using technology.  
 - **Collaborate:** Eager to work with like-minded individuals passionate about tech and business.  
@@ -43,7 +42,7 @@ I'm **QuantumUser4**, a passionate developer constantly seeking new opportunitie
 
 ---
 
-## 📫 Let’s Connect!  
+## 📫 Let’s Connect!
 
 📧 **Email**: quantumuser4@example.com  
 💼 **LinkedIn**: [linkedin.com/in/quantumuser4](https://linkedin.com/in/quantumuser4)  
