@@ -27,9 +27,9 @@ I specialize in full-stack development, with experience across a variety of prog
 #### **Programming Languages**  
 - ![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)  
 - ![C++](https://img.shields.io/badge/C++-Proficient-blue?logo=cplusplus)  
-- ![C#](https://img.shields.io/badge/C%23-Proficient-blue?logo=csharp)  
+- ![C#](https://img.shields.io/badge/C%23-Proficient-blue?logo=csharp)
+- ![Java](https://img.shields.io/badge/Java-Expert-blue?logo=java)  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-yellow?logo=javascript)  
-- ![Java](https://img.shields.io/badge/Java-Proficient-orange?logo=java)  
 - ![C](https://img.shields.io/badge/C-Proficient-lightgrey?logo=c)  
 
 #### **Development Expertise**  
