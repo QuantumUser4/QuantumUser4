@@ -1,13 +1,13 @@
 # Hi there!👋  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Funnel+Sans&weight=800&size=80&pause=1000&width=800&height=150&lines=QuantumUser4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Funnel+Sans&weight=800&size=80&pause=1000&width=800&height=150&lines=Gio)](https://git.io/typing-svg)
  
 ![Developer](https://img.shields.io/badge/Developer-Full--Stack-blueviolet?style=for-the-badge)  
 ![Innovator](https://img.shields.io/badge/Innovator-Tech--Driven-success?style=for-the-badge)  
 ![Collaborator](https://img.shields.io/badge/Collaboration-Open--to--Ideas-lightblue?style=for-the-badge)  
 
 ## About Me  
-I'm **QuantumUser4**, a passionate developer constantly seeking new opportunities to innovate and build the future. I love exploring the intersection of technology and business, and I'm on the lookout for groundbreaking ideas that can transform industries! 🚀  
+I'm **Gio**, a passionate developer constantly seeking new opportunities to innovate and build the future. I love exploring the intersection of technology and business, and I'm on the lookout for groundbreaking ideas that can transform industries! 🚀  
 
 ![Tech Meets Business](https://img.shields.io/badge/Tech_Meets_Business-Innovation_Ready-ff69b4?style=flat-square)  
 
