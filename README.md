@@ -48,3 +48,6 @@ I'm actively exploring new business ideas and tech-driven solutions. If you're p
 ![Let's Connect](https://img.shields.io/badge/Let's_Connect-Collaboration_Possibilities-brightgreen?style=for-the-badge)  
 
 Feel free to reach out if you're interested in working together or just want to chat about ideas! 😊  
+
+![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=QuantumUser4&show_icons=true&theme=dark)
+
