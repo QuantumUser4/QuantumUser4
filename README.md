@@ -50,4 +50,6 @@ I'm actively exploring new business ideas and tech-driven solutions. If you're p
 Feel free to reach out if you're interested in working together or just want to chat about ideas! 😊  
 
 ![Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=QuantumUser4&show_icons=true&theme=dark)
+![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumUser4&layout=compact&theme=dark)
+
 
