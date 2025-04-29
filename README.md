@@ -1,6 +1,6 @@
 # Hi there!👋  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=80&duration=1000&pause=1000&color=FFFFFF&vCenter=true&width=140&height=120&lines=Gio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=900&size=80&duration=1000&pause=1000&color=0000FF&vCenter=true&width=140&height=120&lines=Gio)](https://git.io/typing-svg)
  
 ![Developer](https://img.shields.io/badge/Developer-Full--Stack-blueviolet?style=for-the-badge)  
 ![Innovator](https://img.shields.io/badge/Innovator-Tech--Driven-success?style=for-the-badge)  
